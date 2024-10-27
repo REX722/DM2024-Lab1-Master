@@ -540,8 +540,8 @@ side:3
 prefer:3
 michael:3
 presley:3
-presley	elvis:2
 presley	mr:2
+presley	elvis:2
 whenever:3
 davis:3
 school:3
@@ -676,8 +676,8 @@ valentine:3
 certain:3
 further:3
 help:3
-help	done:2
 help	anything:2
+help	done:2
 child:3
 feels:3
 add:3
@@ -717,8 +717,8 @@ bought:3
 creation:3
 kinds:3
 imagine:3
-imagine	through:2
 imagine	passed:2
+imagine	through:2
 richard:3
 richard	credit:2
 richard	well:2
@@ -727,8 +727,8 @@ themselves:3
 evergreen:3
 brother:3
 problem:3
-problem	say:2
 problem	see:2
+problem	say:2
 problem	lived:2
 problem	lived	see:2
 70:3
@@ -763,18 +763,18 @@ although	lol:2
 later:4
 place:4
 along:4
+along	100:2
 along	live:2
 along	jim:2
-along	100:2
 blues:4
 blues	elvis:2
 generations:4
 generations	true:2
 word:4
-word	mother:2
-word	mother	every:2
 word	understand:2
 every	word	understand:2
+word	mother:2
+word	mother	every:2
 word	every:3
 boy:4
 boy	girl:2
@@ -805,8 +805,8 @@ able:4
 able	credit:2
 loss:4
 alone:4
-alone	being:2
 alone	put:2
+alone	being:2
 underrated:4
 wrote:4
 wrote	where:2
@@ -857,7 +857,6 @@ pleasure:4
 recorded:4
 recorded	single:2
 ain:4
-ain	country:2
 ain	walker:2
 ain	walker	anymore:2
 ain	walker	gonna:2
@@ -874,6 +873,7 @@ anymore	gonna	ain	walker	shine:2
 anymore	sun	ain	walker	shine:2
 gonna	sun	ain	walker	shine:2
 anymore	gonna	sun	ain	walker	shine:2
+ain	country:2
 ain	anymore:3
 ain	gonna:3
 anymore	ain	gonna:3
@@ -893,18 +893,18 @@ recordings:4
 piano:4
 isn:4
 wife:4
-wife	gonna:2
 wife	lovely:2
+wife	gonna:2
 clip:4
 harmonies:4
 intro:4
 intro	tune:2
 70s:4
+70s	60s:2
+70s	amazing:2
 70s	pop:2
 70s	written:2
 70s	written	pop:2
-70s	amazing:2
-70s	60s:2
 message:4
 weeks:4
 weeks	thanks:2
@@ -926,16 +926,16 @@ seems	ago:2
 seems	ago	didn:2
 living:4
 type:4
-type	them:2
 type	singers:2
+type	them:2
 dean:4
 dean	wonderful:2
 frankie:4
-frankie	original:2
-frankie	uk:2
 frankie	brothers:2
 frankie	walker:2
 frankie	walker	brothers:2
+frankie	original:2
+frankie	uk:2
 actress:4
 actress	does:2
 anyone	actress	does:2
@@ -963,10 +963,10 @@ seeing	after:2
 moment:4
 reason:4
 garbage:4
-garbage	crap:2
 garbage	gonna:2
 garbage	agree:2
 gonna	garbage	agree:2
+garbage	crap:2
 tire:4
 female:4
 seemed:4
@@ -978,8 +978,8 @@ disco:4
 disco	even:2
 disco	dancing:2
 night:4
-night	say:2
 night	see:2
+night	say:2
 excellent:4
 crying:4
 crying	feel:2
@@ -987,9 +987,9 @@ myself:4
 myself	thought:2
 myself	sweet:2
 laugh:4
-laugh	into:2
-laugh	playing:2
 laugh	guys:2
+laugh	playing:2
+laugh	into:2
 hair:4
 hair	age:2
 crazy:4
@@ -1040,8 +1040,8 @@ leo:4
 leave:5
 leave	us:2
 number:5
-number	uk:2
 number	little:2
+number	uk:2
 father:5
 remember:5
 100:5
@@ -1056,24 +1056,24 @@ mother	loved:2
 three:5
 three	times:2
 knew:5
-knew	history:2
-knew	lived:2
 knew	made:2
 knew	also:2
 made	knew	also:2
+knew	lived:2
+knew	history:2
 dear:5
 dear	friend:2
 friends:5
 stop:5
+stop	started:2
 stop	ve:2
 stop	seen:2
-stop	started:2
 white:5
 white	ve:2
 magnificent:5
 credit:5
-credit	well:2
 credit	probably:2
+credit	well:2
 found:5
 cause:5
 cause	ve:2
@@ -1110,35 +1110,35 @@ gorgeous:5
 face:5
 face	see:2
 earth:5
-earth	handsome:2
 earth	heaven:2
+earth	handsome:2
 soon:5
 soon	left:2
 thinking:5
-thinking	away:2
 thinking	feel:2
 thinking	lost:2
 feel	thinking	lost:2
+thinking	away:2
 low:5
 low	feel:2
 low	feeling:2
 feel	low	feeling:2
 angel:5
 angel	us:2
-angel	around:2
-angel	see:2
 angel	peace:2
+angel	see:2
+angel	around:2
 died:5
 died	eyes:2
 making:5
 making	tune:2
 vocalist:5
-vocalist	elvis:2
 vocalist	uk:2
+vocalist	elvis:2
 together:5
-together	work:2
-together	say:2
 together	put:2
+together	say:2
+together	work:2
 bit:5
 bit	little:2
 big:5
@@ -1151,8 +1151,8 @@ door	next:2
 totally:5
 totally	unique:2
 two:5
-two	passed:2
 two	even:2
+two	passed:2
 actually:5
 anything:5
 hearing:5
@@ -1185,8 +1185,8 @@ far	go:2
 far	early:2
 likes:5
 running:5
-running	being:2
 running	over:2
+running	being:2
 women:5
 everytime:5
 clear:5
@@ -1198,8 +1198,8 @@ reeves:6
 reeves	jim:6
 close:6
 close	eyes:2
-close	see:2
 close	elvis:2
+close	see:2
 goes:6
 guess:6
 guess	well:2
@@ -1212,13 +1212,13 @@ roll	played:2
 rock	roll	played:2
 roll	rock:6
 baby:6
-baby	told:2
 baby	days:2
+baby	told:2
 different:6
 brought:6
 gone:6
-gone	elvis:2
 gone	days:2
+gone	elvis:2
 parents:6
 parents	them:2
 mom:6
@@ -1227,8 +1227,8 @@ story:6
 done:6
 done	well:2
 playing:6
-playing	around:2
 playing	thanks:2
+playing	around:2
 classics:6
 classics	era:2
 classics	early:2
@@ -1242,12 +1242,12 @@ keep:6
 keep	because:2
 awesome:6
 given:6
-given	brilliant:2
 given	back:2
+given	brilliant:2
 said:6
+said	times:2
 said	well:2
 said	go:2
-said	times:2
 said	believe:2
 gold:6
 gold	top:2
@@ -1270,8 +1270,8 @@ performance:6
 use:6
 use	re:2
 agree:6
-agree	gonna:2
 agree	person:2
+agree	gonna:2
 agree	let:2
 artists:6
 start:6
@@ -1291,13 +1291,13 @@ stars:6
 stars	movie:2
 course:6
 melody:6
-melody	golden:2
 melody	other:2
+melody	golden:2
 dancing:6
-dancing	favorite:2
-dancing	feel:2
 dancing	dance:2
 dancing	around:2
+dancing	feel:2
+dancing	favorite:2
 dream:6
 dream	true:2
 wake:6
@@ -1306,8 +1306,8 @@ hey	play:2
 hey	other:2
 vocals:6
 sweet:6
-sweet	after:2
 sweet	thought:2
+sweet	after:2
 80:6
 80	made:2
 80	50:2
@@ -1319,9 +1319,9 @@ couple	ago:2
 need:6
 need	didn:2
 brenda:6
-brenda	youtube:2
 brenda	emotion:2
 brenda	hit:2
+brenda	youtube:2
 brenda	anymore:2
 funny:6
 shine:6
@@ -1343,8 +1343,8 @@ shine	sun:5
 golden:7
 golden	age:5
 loving:7
-loving	should:2
 loving	after:2
+loving	should:2
 loving	says:2
 loving	true:2
 top:7
@@ -1354,8 +1354,8 @@ least:7
 least	thanks:2
 least	jim:2
 maybe:7
-maybe	thing:2
 maybe	well:2
+maybe	thing:2
 off:7
 off	fantastic:2
 appreciate:7
@@ -1374,22 +1374,22 @@ oh	another:2
 background:7
 background	name:2
 probably:7
+probably	because:2
 probably	lol:2
 probably	into:2
-probably	because:2
 must:7
 must	say:2
 must	lot:2
 must	original:2
 told:7
-told	because:2
 told	going:2
+told	because:2
 miss:7
 miss	elvis:2
 miss	forever:2
 elvis	miss	forever:2
-miss	singers:2
 miss	little:2
+miss	singers:2
 cry:7
 cry	mean:2
 cry	makes:4
@@ -1399,13 +1399,13 @@ hard:7
 hard	them:2
 hard	because:2
 them	hard	because:2
+hard	lost:2
+hard	believe:2
 hard	work:2
 hard	ve:2
-hard	believe:2
-hard	lost:2
 left:7
-left	us:2
 left	right:2
+left	us:2
 grew:7
 until:7
 masterpiece:7
@@ -1416,11 +1416,11 @@ laura:7
 laura	friend:2
 laura	name:3
 history:7
-history	made:2
 history	greatest:2
+history	made:2
 artist:7
-artist	lyrics:2
 artist	greatest:2
+artist	lyrics:2
 written:7
 written	lyrics:2
 written	may:2
@@ -1429,19 +1429,19 @@ written	tune	may:2
 written	artist:2
 written	pop:3
 unique:7
-unique	young:2
 unique	voices:2
+unique	young:2
 else:7
-else	other:2
 else	elvis:2
 else	someone:2
+else	other:2
 heaven:7
 heaven	50:2
-heaven	fantastic:2
 heaven	after:2
+heaven	fantastic:2
 yet:7
-yet	era:2
 yet	amazing:2
+yet	era:2
 roy:7
 roy	feeling:2
 50:7
@@ -1456,15 +1456,13 @@ everyone:7
 comment:7
 comment	youtube:2
 also:7
-also	which:2
 also	made:2
+also	which:2
 sun:7
 sun	anymore:3
 gonna	sun	anymore:3
 sun	gonna:4
 walker:7
-walker	may:2
-walker	made:2
 walker	anymore:2
 walker	gonna:2
 walker	gonna	anymore:2
@@ -1472,16 +1470,18 @@ walker	sun:2
 walker	sun	anymore:2
 walker	sun	gonna:2
 anymore	walker	sun	gonna:2
+walker	made:2
+walker	may:2
 walker	brothers:5
 jim:8
-jim	days:2
 jim	thanks:2
 jim	live:2
+jim	days:2
 hope:8
 king:8
 king	nothing:2
-king	go:2
 king	elvis:2
+king	go:2
 future:8
 future	new:2
 radio:8
@@ -1494,9 +1494,9 @@ radio	play:3
 used:8
 used	rock:2
 late:8
-late	60s:2
 late	into:2
 late	anyone:2
+late	60s:2
 meaning:8
 meaning	around:2
 part:8
@@ -1507,20 +1507,20 @@ absolutely	elvis:2
 absolutely	forever:2
 elvis	absolutely	forever:2
 especially:8
-especially	anymore:2
 especially	may:2
 especially	tune:2
+especially	anymore:2
 posting:8
 posting	wonderful:2
 posting	thanks:5
 home:8
 home	hit:2
 through:8
-through	back:2
 through	see:2
+through	back:2
 let:8
-let	tell:2
 let	gonna:2
+let	tell:2
 let	go:3
 give:8
 give	amazing:2
@@ -1528,9 +1528,9 @@ lost:8
 lost	feel:2
 lost	even:2
 going:8
-going	because:2
 going	change:2
 going	change	nothing:2
+going	because:2
 going	nothing:3
 woman:8
 woman	lot:2
@@ -1563,13 +1563,14 @@ once:8
 once	seen:2
 once	sound:2
 looking:8
-looking	without:2
-looking	well:2
 looking	yes:2
+looking	well:2
+looking	without:2
 bless:8
 bless	wonderful:2
 bless	may:2
 wonderful	bless	may:2
+bless	family:2
 bless	elvis:2
 bless	greatest:2
 elvis	bless	greatest:2
@@ -1578,41 +1579,40 @@ bless	forever	elvis:2
 bless	forever	greatest:2
 elvis	bless	forever	greatest:2
 bless	fantastic:2
-bless	family:2
 hits:8
+hits	well:2
 hits	country:2
 hits	understand:2
-hits	well:2
 hits	original:2
 hits	into:2
 mean:8
-mean	guy:2
 mean	another:2
+mean	guy:2
 change:8
-change	feeling:2
-change	feeling	gonna:2
 change	bad:2
 change	bad	nothing:2
 change	without:2
+change	feeling:2
+change	feeling	gonna:2
 change	gonna:3
 change	gonna	nothing:2
 change	nothing:4
 sang:8
-sang	which:2
 sang	into:2
 hits	sang	into:2
+sang	emotion:2
 sang	original:2
 sang	original	hits:2
-sang	emotion:2
-sang	hit:3
+sang	which:2
 sang	hits:3
+sang	hit:3
 2019:8
 guys:8
 guys	go:2
 full:8
-full	60s:2
 full	emotion:2
 full	pop:2
+full	60s:2
 full	yes:2
 favorites:9
 favorites	them:2
@@ -1626,21 +1626,21 @@ soul:9
 mind:9
 mind	away:2
 60:9
-60	thanks:2
-60	era:2
+60	band:2
 60	loved:2
+60	thanks:2
+60	didn:2
+60	era:2
 60	back:2
 sound	60	back:2
-60	didn:2
-60	band:2
 60	sound:3
 60s:9
 60s	enjoy:2
 60s	amazing:2
 family:9
+family	favorite:2
 family	every:2
 family	them:2
-family	favorite:2
 family	wonderful:2
 ones:9
 ones	young:2
@@ -1658,34 +1658,34 @@ please:9
 please	person:2
 please	anyone:3
 though:9
+though	around:2
+though	even:2
 though	few:2
 though	didn:2
 few	though	didn:2
 though	re:2
-though	even:2
-though	around:2
 wonder:9
 wonder	makes:2
 wonder	hit:2
 person:9
-person	elvis:2
 person	down:2
 person	say:2
+person	elvis:2
 person	yes:3
 sung:9
-sung	emotion:2
 sung	elvis:2
+sung	emotion:2
 year:9
 year	born:2
 handsome:9
-handsome	young:2
 handsome	almost:2
-handsome	re:2
 handsome	look:2
+handsome	re:2
+handsome	young:2
 perfect:9
 born:9
-born	even:2
 born	60s:2
+born	even:2
 ll:9
 ll	tears:2
 ll	eyes:2
@@ -1694,15 +1694,15 @@ happy:9
 almost:9
 almost	every:2
 end:9
-end	go:2
 end	back:2
 end	same:2
+end	go:2
 end	around:3
 rock:10
-rock	young:2
-rock	played:2
 rock	country:2
+rock	played:2
 rock	pop:2
+rock	young:2
 says:10
 says	gonna:2
 says	after:2
@@ -1720,10 +1720,10 @@ movie:10
 movie	wonderful:2
 movie	age:3
 believe:10
-believe	another:2
-believe	again:2
 believe	feel:2
+believe	again:2
 believe	someone:2
+believe	another:2
 thing:10
 thing	into:2
 thing	anymore:2
@@ -1731,9 +1731,9 @@ ago:10
 ago	see:2
 ago	few:2
 see	ago	few:2
-ago	nothing:2
 ago	didn:2
 ago	find:2
+ago	nothing:2
 ago	long:3
 friend:10
 friend	name:2
@@ -1762,12 +1762,13 @@ hit	new:2
 which:11
 which	well:2
 which	wonderful:2
+which	hit:2
 which	every:2
 which	nowadays:2
 every	which	nowadays:2
-which	hit:2
 enjoy:11
 yes:11
+yes	long:2
 yes	made:2
 yes	see:2
 made	yes	see:2
@@ -1776,7 +1777,6 @@ yes	being:2
 yes	being	made:2
 yes	being	see:2
 made	yes	being	see:2
-yes	long:2
 yes	came:2
 long:11
 long	before:2
@@ -1784,40 +1784,40 @@ long	live:3
 put:11
 put	favorite:2
 someone:11
-someone	age:2
-someone	little:2
 someone	feel:2
+someone	little:2
+someone	age:2
 away:11
 away	tears:2
 away	amazing:3
 work:11
-work	say:2
-work	greatest:2
-work	single:2
 work	amazing:2
 work	brilliant:2
+work	greatest:2
+work	single:2
+work	say:2
 band:11
 band	being:2
 band	made:2
 does:11
-does	thanks:2
 does	well:2
+does	thanks:2
 does	anyone:5
 find:11
 find	where:2
 called:11
+called	being:2
 called	us:2
 called	because:2
-called	being:2
 lol:11
 words:11
 words	days:2
 didn:11
+didn	few:2
 didn	where:2
 didn	well:2
 didn	being:2
 well	didn	being:2
-didn	few:2
 voices:11
 voices	thanks:2
 voices	little:2
@@ -1830,35 +1830,35 @@ eyes	see:3
 eyes	see	tears:2
 eyes	tears:6
 thought:11
-thought	again:2
-thought	may:2
 thought	say:2
+thought	may:2
+thought	again:2
 thought	elvis:2
 kind:11
 re:11
-re	young:2
 re	over:2
-re	should:2
 re	didn:2
+re	young:2
+re	should:2
 dance:11
 lot:11
-lot	ve:2
-lot	another:2
 lot	see:2
 lot	around:2
+lot	another:2
+lot	ve:2
 pretty:11
-pretty	era:2
 pretty	pop:2
 pretty	age:2
+pretty	era:2
 gonna:11
-gonna	new:2
-gonna	nothing:2
 gonna	feeling:2
+gonna	nothing:2
+gonna	new:2
 gonna	anymore:4
 sounds:12
-sounds	before:2
 sounds	every:2
 sounds	live:2
+sounds	before:2
 brilliant:12
 brilliant	well:2
 girl:12
@@ -1866,13 +1866,13 @@ girl	them:2
 girl	little:2
 girl	every:3
 around:12
-around	right:2
-around	go:2
 around	look:2
+around	go:2
+around	right:2
 tears:12
-tears	into:2
 tears	see:2
 tears	amazing:2
+tears	into:2
 single:12
 single	girl:2
 every	single	girl:2
@@ -1881,24 +1881,24 @@ wrong:12
 wrong	where:2
 wrong	something:4
 tune:12
-tune	played:2
 tune	may:2
+tune	played:2
 few:12
+few	days:2
+few	see:2
+few	little:2
+few	being:2
 few	every:2
 few	again:2
 few	again	every:2
-few	little:2
-few	being:2
-few	days:2
-few	see:2
 nowadays:12
-nowadays	every:2
 nowadays	wow:2
+nowadays	every:2
 lovely:12
-lovely	same:2
 lovely	them:2
-lovely	favorite:2
 lovely	play:2
+lovely	favorite:2
+lovely	same:2
 times:12
 times	same:2
 sure:12
@@ -1906,62 +1906,62 @@ sure	another:2
 sure	them:2
 romantic:12
 guy:12
-guy	elvis:2
 guy	days:2
+guy	elvis:2
 guy	another:3
 play:13
-play	era:2
 play	every:2
+play	era:2
 play	them:3
 played:13
 nothing:13
+nothing	being:2
 nothing	may:2
 nothing	without:2
-nothing	being:2
 right:13
 right	over:2
 seen:13
-seen	go:2
 seen	anyone:2
+seen	go:2
 seen	look:2
 seen	ve:4
 something:13
 look:13
-look	back:2
-look	made:2
 look	sound:2
+look	made:2
+look	back:2
 our:13
-our	us:2
-our	forever:2
 our	because:2
+our	forever:2
+our	us:2
 may:13
 may	ve:2
-may	without:2
 may	wonderful:2
+may	without:2
 being:13
 being	well:2
-being	see:2
-made	being	see:2
-being	because:2
-being	after:2
-being	after	because:2
 being	singers:2
 being	anymore:2
 being	anymore	made:2
+being	because:2
+being	after:2
+being	after	because:2
+being	see:2
+made	being	see:2
 being	made:4
 youtube:13
 youtube	thanks:2
 new:14
 new	anymore:2
 into:14
-into	another:2
-into	go:2
-into	well:2
-into	feeling:2
-into	even:2
 into	lyrics:2
 into	thanks:2
 lyrics	into	thanks:2
+into	another:2
+into	feeling:2
+into	well:2
+into	even:2
+into	go:2
 name:14
 name	over:2
 name	without:2
@@ -1981,60 +1981,60 @@ original	feeling:2
 original	into:2
 original	where:2
 era:14
-era	fantastic:2
 era	lyrics:2
-era	sound:2
 era	true:2
-era	say:3
-era	say	back:2
+era	fantastic:2
+era	sound:2
 era	back:3
 era	back	them:2
+era	say:3
+era	say	back:2
 era	them:4
 live:15
 live	forever:2
 live	again:2
 us:15
-us	forever:2
 us	age:2
+us	forever:2
 wow:15
 wow	wonderful:2
 anymore:15
-anymore	singers:2
-anymore	country:2
 anymore	every:2
 anymore	them:2
 every	anymore	them:2
+anymore	country:2
+anymore	singers:2
 anymore	made:2
 should:15
-should	sound:2
 should	every:2
+should	sound:2
 after:15
-after	see:2
-after	see	say:2
 after	because:2
 after	anyone:2
 true	after	anyone:2
-after	say:3
-after	even:3
+after	see:2
+after	see	say:2
 after	came:3
 after	true:3
+after	even:3
+after	say:3
 without:15
 without	wonderful:2
 singers:16
-singers	little:2
 singers	lyrics:2
+singers	little:2
 came:16
+came	before:2
 came	ve:2
 came	see:2
 ve	came	see:2
-came	before:2
 again:16
+again	young:2
 again	back:2
-again	true:2
 again	elvis:2
 again	because:2
 again	thanks:2
-again	young:2
+again	true:2
 again	every:3
 country:16
 country	well:2
@@ -2053,11 +2053,11 @@ before:16
 before	go:2
 before	ve:2
 say:16
-say	them:2
-say	because:2
-say	back:2
 say	see:2
+say	them:2
+say	back:2
 say	true:2
+say	because:2
 where:16
 where	true:2
 feel:17
@@ -2065,11 +2065,11 @@ feel	lyrics:2
 feel	ve:3
 feel	makes:4
 true:17
-true	back:2
 true	anyone:2
+true	back:2
 anyone:17
-anyone	well:2
 anyone	go:2
+anyone	well:2
 fantastic:17
 fantastic	greatest:2
 fantastic	young:2
@@ -2081,8 +2081,8 @@ over	days:2
 over	young:2
 over	elvis:3
 because:17
-because	elvis:2
 because	them:2
+because	elvis:2
 back:18
 back	them:3
 greatest:18
@@ -2098,8 +2098,8 @@ young:19
 young	see:2
 young	age:4
 go:19
-go	ve:2
 go	favorite:2
+go	ve:2
 go	loved:2
 see:19
 see	made:2
